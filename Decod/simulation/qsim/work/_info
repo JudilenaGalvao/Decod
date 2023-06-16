@@ -1,0 +1,85 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\Aluno\Documents\Decod\simulation\qsim
+vDecod
+Z1 IZ:QN2Jj?^Bk;;o0B^J?I=1
+Z2 VkVEAbJ`zUWnVWQe=iQ15n0
+Z3 dC:\Users\Aluno\Documents\Decod\simulation\qsim
+Z4 w1684950837
+Z5 8Decod.vo
+Z6 FDecod.vo
+L0 31
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 o-work work -O0
+Z9 n@decod
+!i10b 1
+Z10 !s100 Qjol;g8>Z5==0n`E[L?7@3
+!s85 0
+Z11 !s108 1684950840.946000
+Z12 !s107 Decod.vo|
+Z13 !s90 -work|work|Decod.vo|
+!s101 -O0
+vDecod_vlg_check_tst
+!i10b 1
+!s100 z^B6ASO?nCUL=>;QINN<H0
+Ie5Foe?bhQ:U358ZVjD?4P2
+V;`35D^GRhG4I6RPb<HK5T2
+R3
+Z14 w1684950836
+Z15 8Decod.vt
+Z16 FDecod.vt
+L0 63
+R7
+r1
+!s85 0
+31
+Z17 !s108 1684950841.218000
+Z18 !s107 Decod.vt|
+Z19 !s90 -work|work|Decod.vt|
+!s101 -O0
+R8
+n@decod_vlg_check_tst
+vDecod_vlg_sample_tst
+!i10b 1
+!s100 c]2eIfW8comKm2[cm<Y9I1
+IATOQXA=D[`I@R;;2EgVFO1
+VbcKC@GR^^XSU?O?g5Yk;F0
+R3
+R14
+R15
+R16
+L0 29
+R7
+r1
+!s85 0
+31
+R17
+R18
+R19
+!s101 -O0
+R8
+n@decod_vlg_sample_tst
+vDecod_vlg_vec_tst
+!i10b 1
+!s100 >8=b8b2mGaV_89m?NR3bn1
+I]?OQVi?dfE@8mlOg`F9590
+VnYfbkH@K:A@JS:9LR6<8:0
+R3
+R14
+R15
+R16
+L0 320
+R7
+r1
+!s85 0
+31
+R17
+R18
+R19
+!s101 -O0
+R8
+n@decod_vlg_vec_tst

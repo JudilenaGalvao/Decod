@@ -1,0 +1,36 @@
+|Decod
+a <= 7448:inst.OA
+x => 7448:inst.A
+z => 7448:inst.C
+w => 7448:inst.D
+y => 7448:inst.B
+b <= 7448:inst.OB
+c <= 7448:inst.OC
+d <= 7448:inst.OD
+e <= 7448:inst.OE
+f <= 7448:inst.OF
+g <= 7448:inst.OG
+
+
+|Decod|7448:inst
+OA <= 69.DB_MAX_OUTPUT_PORT_TYPE
+B => 27.IN0
+LTN => 27.IN1
+LTN => 25.IN1
+LTN => 29.IN1
+LTN => 13.IN5
+LTN => 38.IN3
+BIN => 37.IN0
+C => 25.IN0
+D => 14.IN0
+A => 29.IN0
+RBIN => 15.IN0
+OB <= 68.DB_MAX_OUTPUT_PORT_TYPE
+OC <= 70.DB_MAX_OUTPUT_PORT_TYPE
+OD <= 67.DB_MAX_OUTPUT_PORT_TYPE
+RBON <= 13.DB_MAX_OUTPUT_PORT_TYPE
+OE <= 71.DB_MAX_OUTPUT_PORT_TYPE
+OF <= 66.DB_MAX_OUTPUT_PORT_TYPE
+OG <= 72.DB_MAX_OUTPUT_PORT_TYPE
+
+
